@@ -1306,6 +1306,6 @@ for (k in 4:10 ){
   print(table(km$cluster,datamention$Distinction_or_no))
   print(qplot(km$cluster, data=datamention, fill=Distinction_or_no))
 }  
-### K=8 est plutôt interessante
+### K=8 est plutôt interessant
 
 ```
